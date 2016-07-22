@@ -1,0 +1,4 @@
+plik README
+bbb
+aaa
+
